@@ -10,3 +10,7 @@ https://materials.itstep.org/content/fd0556d8-3b95-476f-9a34-11144d9a9e93/pl
 https://materials.itstep.org/content/c09c4b67-7cd3-4f34-9971-2b3d8fc88c7d/pl
 ### Baza danych. Praca z bazą danych SQLite
 https://materials.itstep.org/content/c67f4008-12a4-413f-82d7-3324ab20468e/pl
+### Sieci neuronowe
+https://materials.itstep.org/content/487e637a-c924-4091-8d47-ff8e5c483f4f/pl
+### Projekt końcowy
+https://materials.itstep.org/content/0591a634-032e-4107-872b-ff56c4cac522/pl
