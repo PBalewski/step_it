@@ -1,6 +1,14 @@
-### Introspekcja modułów i klas <br>
+### Wprowadzenie do Git i korzystanie z GitHub
+https://materials.itstep.org/content/e48b0a4b-e461-449b-a45c-c1519c017f2e/pl
+### OOP. Klasy. Atrybuty i metody klas
+https://materials.itstep.org/content/83fb9038-af31-4924-ad81-a4a0af2c2671/pl
+### Praca z wieloma klasami. Rozwój The Sims.
+https://materials.itstep.org/content/5d673eb3-a8d5-4617-8327-9747b9a11ba8/pl
+### Dziedziczenie klas. Metoda super()
+https://materials.itstep.org/content/2ac9bde9-2865-4478-b13d-d432e2f4de3d/pl
+### Introspekcja modułów i klas
 https://materials.itstep.org/content/021b34cb-e1c5-49bf-95e9-5114ad41198d/pl <br>
-### Wyjątki. Generowanie i obsługa wyjątków. Ostrzeżenia <br>
+### Wyjątki. Generowanie i obsługa wyjątków. Ostrzeżenia
 https://materials.itstep.org/content/a593fc2c-a7b2-4e57-b138-c9765d2118af/pl <br>
 ### Iteratory. Generatory. Zamknięcia. Dekoratory
 https://materials.itstep.org/content/4733ef33-f07c-4a13-b1be-5f2b327976e8/pl
